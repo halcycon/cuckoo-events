@@ -1,0 +1,53 @@
+# Web Browsers
+firefox
+googlechrome
+
+# Office
+office365business
+
+# Utilities
+files
+7zip.install
+adobereader
+bitwarden
+ditto
+vlc.install
+vscode.install
+teracopy
+advanced-renamer-install
+treesizefree
+sudo
+chocolateyGUI
+superF4
+powertoys
+irfanview
+
+
+# Conferencing
+microsoft-teams.install
+zoom
+
+# Libraries
+dotnetfx
+vcredist2008
+vcredist2010
+vcredist2015
+vcredist2017
+pswindowsupdate
+
+# Gaming
+steam
+epicgameslauncher
+leagueoflegendseuw
+
+# Streaming
+obs-studio
+obs-ndi
+discord
+
+# Drivers - uncomment as needed!
+# geforce-game-ready-driver
+
+# Benchmarking
+3dmark
+furmark
